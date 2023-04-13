@@ -8,9 +8,3 @@ ranks:
     permissions:
       - some.permission
       - another.permission
-  admin:
-    permissions:
-      - some.permission
-      - another.permission
-      - admin.permission
-```
